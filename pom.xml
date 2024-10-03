@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <fastjson.version>1.2.72</fastjson.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <commons-lang3.version>3.1</commons-lang3.version>
     </properties>
 
